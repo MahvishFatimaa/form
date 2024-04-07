@@ -1,0 +1,84 @@
+
+        *{
+            padding: 0;
+            margin: 0;
+        }
+        body{
+            text-align: center;
+            font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            background-color: rgb(218, 188, 233);
+            
+        }
+        .container{
+          display: flex;
+          justify-content: center;
+
+        }
+        
+        form{
+            background-color: white;
+            padding: 10px ;
+            width: 80vh;
+            box-shadow: 3px 5px 10px 3px rgba(43, 2, 45, 0.5);
+            margin: 0.5rem;
+            
+           
+        }
+        
+        .form2{
+            text-align: left;
+            margin-bottom: 20px;
+           
+        }
+        label {
+			display: block;
+			margin-bottom: 1px;
+		}
+        button {
+			background-color:#e2aeec;
+			border: 1px solid rgb(117, 7, 82);
+			border-radius: 2px;
+			font-family: inherit;
+			font-size: 21px;
+			display: block;
+			width: 100%;
+			margin-top: 50px;
+			margin-bottom: 20px;
+		}
+
+    .Singer{
+      margin: 13px;
+      
+    }
+    .series{
+      margin: 13px;
+
+    }
+    .FRIEND{
+      margin: 13px;
+
+    }
+    .paint{
+      margin: 13px;
+
+    }
+    #role{
+      width: 100%;
+      height: 2rem;
+      margin-top: 1rem;
+      
+    }
+    .detail{
+      width: 100%;
+      height: 2rem;
+      margin-top: 1rem;
+
+    }
+    .comment{
+      width: 100%;
+      height: 3rem;
+      margin-top: 1rem;
+
+    }
+       
+    
